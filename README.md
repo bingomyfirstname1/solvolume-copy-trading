@@ -26,6 +26,12 @@ This isn’t just a bot. **This is your edge.**
 
 ---
 
+<div align="center">
+  <a href="https://linktr.ee/solvolumebot">
+    <img src="https://i.ibb.co/9Xdmc5G/web.png" alt="site" width="300">
+  </a>
+</div>
+
 ```
 src/
 ├── core/
